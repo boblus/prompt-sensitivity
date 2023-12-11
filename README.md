@@ -20,20 +20,6 @@ See [sensitivity_aware_decoding.ipynb](https://github.com/boblus/prompt-sensitiv
 ## disclaimer
 This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
-## citation
-Please use the following citation:
-
-```
-@misc{lu2023prompts,
-      title={How are Prompts Different in Terms of Sensitivity?}, 
-      author={Sheng Lu and Hendrik Schuff and Iryna Gurevych},
-      year={2023},
-      eprint={2311.07230},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
 ## license
 
 This work is licensed under a
