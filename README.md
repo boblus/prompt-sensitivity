@@ -11,6 +11,9 @@ See [saliency.ipynb](https://github.com/boblus/prompt-sensitivity/blob/main/sali
 ## sensitivity-aware decoding
 See [sensitivity_aware_decoding.ipynb](https://github.com/boblus/prompt-sensitivity/blob/main/sensitivity_aware_decoding.ipynb) for the implementation of sensitivity-aware decoding.
 
+## evaluation scores
+See [evaluation_scores.csv](https://github.com/boblus/prompt-sensitivity/blob/main/evaluation_scores.csv) and [evaluation_scores - greedy_decoding.csv](https://github.com/boblus/prompt-sensitivity/blob/main/evaluation_scores%20-%20greedy_decoding.csv) for the full evaluation scores.
+
 ## disclaimer
 This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
